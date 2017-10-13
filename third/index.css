@@ -1,0 +1,23 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+div {
+height: 142px;
+}
+.blue{
+    background-color: rgb(89, 145, 230);
+}
+.darkergreen{
+    background-color:rgb(87, 190, 190);
+}
+.yellow{
+    background-color: yellow;
+}
+.lightgreen{
+    background-color: lightgreen;
+}
+p{
+    width: 600px;
+    padding: 20px 0px 0px 200px;
+}
